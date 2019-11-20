@@ -1,0 +1,53 @@
+.container{
+    max-width: 80%;
+}
+header{ 
+        background-color: #75e2e6;
+        height: 55px;  
+}
+img{
+    height: 45px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+a{
+    float: right;
+    padding: 15px;
+    color: black;
+    font-weight: bolder;
+}
+.line{
+    height: 3px;
+    background-color: #048eaa;
+}
+.bodyImage{
+    background-image:url(park.jpg);
+   background-repeat: no-repeat;
+   width: auto;
+   -webkit-margin-top-collapse: separate;
+    height: 55vh;
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+    margin-top: 2%;
+    color: white;
+    mix-blend-mode: difference;
+}
+.details{
+ 
+    margin: 35%;
+    color: white;
+    margin-top: 40%;
+}
+.dog1 img{
+    height: 15%;
+    width: 16%;
+    border-radius: 50%;
+    margin-left: 42%;
+    margin-top: 1%;
+}
+label{
+    text-align: center;
+}
